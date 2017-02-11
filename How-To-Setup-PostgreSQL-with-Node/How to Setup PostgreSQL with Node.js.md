@@ -24,7 +24,10 @@ This downloads and installs PostgreSQL for you.
 Now, open a new instance of terminal, by pressing `command+t`.  Once you have the new tab you can start a PostgreSQL server with the command: 
 `postgres -D /usr/local/var/postgres`.  This allows you to use Postgres locally and gives you a logger for all the commands you run on your databases. 
 
+
 Next open a new instance of terminal with `command+t` and enter: 
+`$ createdb`
+This creates a database.  This is only needed to be done on the first time you are using PostgreSQL. Then enter:
 `$ psql`
 
 This is similar to a command center for Postgres.  It
