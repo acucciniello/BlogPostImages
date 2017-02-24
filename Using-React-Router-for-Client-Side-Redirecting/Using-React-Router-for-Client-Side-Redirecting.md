@@ -2,11 +2,11 @@
 
 ## Introduction
 
-If you are using React in your front end of your Node.js web application and you would like to use React Router in order to handle routing, then you have come to the right place.  Today, we will learn how to have your client side redirect to another page after you have completed some processing.  Let's get started!
+If you are using React in the front end of your web application and you would like to use React Router in order to handle routing, then you have come to the right place.  Today, we will learn how to have your client side redirect to another page after you have completed some processing.  Let's get started!
 
 ## Installs
 
-First we will need to make sure we have a couple of things installed.  The first thing here is to make sure you have [Node and NPM][nodeInstall] installed. In order to make this as simple as possible we are going to use *create-react-app* to get React full working in our application.  You install this by doing:
+First we will need to make sure we have a couple of things installed.  The first thing here is to make sure you have [Node and NPM][nodeInstall] installed. In order to make this as simple as possible we are going to use *create-react-app* to get React fully working in our application.  You install this by doing:
 
 `$ npm install -g create-react-app`
 
@@ -43,7 +43,7 @@ First we will need to edit the main JavaScript file, in this case is located at 
 
 ### App.js
 
-App.js is where we handle all of the routes for our application and acts as the main.js file.  Here is what the code looks like for App.js:
+App.js is where we handle all of the routes for our application and acts as the main js file.  Here is what the code looks like for App.js:
 
 ```
 import React, { Component } from 'react'
@@ -127,7 +127,7 @@ var CalculateButton = React.createClass({
 })
 ```
 
-The important part we want to focus on is inside the *result* function of the *CalculateButton* Class.  We take the two numbers and sum them. Once we have the sum, we create a `path` variable to hold the route we would like to go to next.  Then `browserHistory.push(path)` redirects the client to a new path of `localhost:3000/result`.  We then store the sum in sessionStorage in order to retrieve it on the next page.   
+The important part we want to focus on is inside the *result* function of the *CalculateButton* class.  We take the two numbers and sum them. Once we have the sum, we create a `path` variable to hold the route we would like to go to next.  Then `browserHistory.push(path)` redirects the client to a new path of `localhost:3000/result`.  We then store the sum in sessionStorage in order to retrieve it on the next page.   
 
 
 ### result.js
