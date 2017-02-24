@@ -2,7 +2,7 @@
 
 ## Introduction
 
-So, you need to send some bits of information from your browser to the server in order to complete some processing.  Maybe you need the information to search for something in a database, or just to update something on your server.  Today we are going to show you how to send some data to your server from the client through a POST request using *XmlHttpRequests*  First, we need to set up our environment!
+So, you need to send some bits of information from your browser to the server in order to complete some processing.  Maybe you need the information to search for something in a database, or just to update something on your server.  Today I are going to show you how to send some data to your server from the client through a POST request using *XmlHttpRequest*.  First, we need to set up our environment!
 
 ## Set up
 
@@ -58,7 +58,7 @@ Now its time to start with some front end work.  Open and edit your `index.html`
 
 This file simply has a input field to allow users to enter some information, and a button to then send the information entered to the server.  What we should focus on here is the button's onclick method `send()`.  
 
-This is the function that is called once the button is clicked.  We create a JSON object to hold the value from the text field. Then we create a new instance of an XMLHttpRequest with `xhr`.  We call `xhr.open()` to initialize our request by giving it a request method (POST), the url we would like to open the request with ('/num') and determine if it should be asynchronous or not (it is here).
+This is the function that is called once the button is clicked.  We create a JSON object to hold the value from the text field. Then we create a new instance of an XMLHttpRequest with `xhr`.  We call `xhr.open()` to initialize our request by giving it a request method (POST), the url we would like to open the request with ('/num') and determine if it should be asynchronous or not (set `true` for asynchronous).
 
 We then call `xhr.setRequestHeader()`.  This sets the value of the HTTP request to json and UTF-8.
 
@@ -117,11 +117,11 @@ Let's test what we have done.  In the project directory we can run:
 
 Open your web browser and go to the url `localhost:3000`.  This is what your web page should look like:
 
-![XHRclient_Image](https://github.com/acucciniello/BlogPostImages/tree/master/XHR-to-Send-POST-Request-to-Server/XHRclient.png)
+![XHRclient_Image](https://github.com/acucciniello/BlogPostImages/blob/master/XHR-to-Send-POST-Request-to-Server/XHRclient.png)
 
 This is what your output to the console should look like if you enter a 5 in the input field:
 
-![Console_Image](https://github.com/acucciniello/BlogPostImages/tree/master/XHR-to-Send-POST-Request-to-Server/Console.png)
+![Console_Image](https://github.com/acucciniello/BlogPostImages/blob/master/XHR-to-Send-POST-Request-to-Server/Console.png)
 
 ## Conclusion 
 
