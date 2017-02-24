@@ -153,7 +153,7 @@ GitHub pages for:
 
 
 [twit]: https://twitter.com/
-[gitRepo]: https://github.com/acucciniello/client-redirecting-react-router
+[gitRepo]: https://github.com/acucciniello/xhr-post-example
 [mainGit]: https://github.com/acucciniello/
 [pblog]: http://www.acucciniello.com/
 [nodeInstall]: https://nodejs.org/en/download/
