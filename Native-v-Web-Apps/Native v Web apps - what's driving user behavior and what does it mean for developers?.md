@@ -17,7 +17,7 @@ A Web Application is a program that is stored on a server some where and given t
 
 ## What is Driving User Behavior?
 
-Now that we know what the difference is between Native and Web apps let's talk about the trends that have affected user behavior.
+Now that we know what the difference is between Native and Web apps, let's talk about the trends that have affected user behavior.
 
 ### Screen Size
 
