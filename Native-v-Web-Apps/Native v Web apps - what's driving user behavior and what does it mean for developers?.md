@@ -3,12 +3,12 @@
 
 ## Introduction
 
-So, you are thinking of what kind of application to make for your business or product to make.  This can be a tough decision but we will explore what a developer should know before diving in to one of them.  There are some recent trends that have been affecting how people spend most of their time on the internet and on their devices.  Let us explore the difference between the two.
+So, you are thinking of what kind of application to make for your business or product.  This can be a tough decision but we will explore what a developer should know before diving in to one of them.  There are some recent trends that have been affecting how people spend most of their time on the internet and on their devices.  Let us explore the difference between the two.
 
 
 ## What is a Native App?
 
-A Native Application is a program that is created to be used on a specific operating system or device.  When we refer to a Native App normally we are referring to a mobile app.  These are normally developed for specific device or platform use.  For example, an iPhone app such as Apple's Map app that is created specifically to run on devices running iOS.  Since these apps are created for specific devices, they can take advantage of the hardware and OS for that device. 
+A Native Application is a program that is created to be used on a specific operating system or device.  When we refer to a Native App normally we are referring to a mobile app.  These are normally developed for specific device or platform use.  For example, an iPhone app such as Apple's Map app is created specifically to run on devices running iOS.  Since these apps are created for specific devices, they can take advantage of the hardware and OS for that device. 
 
 
 ## What is a Web App?
@@ -21,21 +21,21 @@ Now that we know what the difference is between Native and Web apps, let's talk 
 
 ### Screen Size
 
-Over the past couple of years, the average screen size has increased from three inches back in 2007 all the way to five inches in 2014.  Some phones these days are six inches! As the screen sizes get larger, it is easier for the user to do more on their mobile device.
+Over the past couple of years, the average screen size has increased from three inches back in 2007 all the way to five inches in 2014.  Some phones have screens that are six inches! As the screen sizes get larger, it is easier for the user to do more on their mobile device.
 
 Check out this [article][sSizes] for an in-depth look on Screen Sizes and its affects.
 
 ### Internet Access
 
-Year by year more and more people have internet access and this is partially due to the amount of smartphones. People have internet nearly where ever they would like and whenever they would like.  
+Year by year more and more people have internet access and this is partially due to the amount of smartphones. People have internet nearly wherever they would like and whenever they would like.  
 
 If you want to learn more about increasing internet access check out this [link][internetUsage].
 
 ### Phone Hardware
 
-Over the recent years, phones can now take 4K images and video. The screen resolutions have even increased up to 4K recently.  RAM has increased in devices also, with some devices having four GB of RAM which is what some lower end computers.  
+Over the recent years, phones can now take 4K images and video. The screen resolutions have even increased up to 4K recently.  RAM has increased in devices also, with some devices having four GB of RAM which is what some lower end computers have.  
 
-**Verdict**: All of the improvements  in phone hardware and increased internet access makes it easier to do things on the go with their mobile devices.
+**Verdict**: All of the improvements in phone hardware and increased internet access makes it easier to do things on the go with their mobile devices.
 
 ## What does this mean for Developers?
 
