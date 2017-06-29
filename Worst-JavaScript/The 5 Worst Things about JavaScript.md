@@ -37,9 +37,9 @@ Here is a table of falsy values that are used in JavaScript:
 
 All of these values represent a different falsy value but they are not interchangeable.  They only work for their type in JavaScript.  As a beginner, trying to figure out how to check for errors at certain points in your code, sometimes this can be tricky.
 
-Not to harp on the problem with global variables again, but `undefined` and `NaN` are both variables that are part of global scope.  This means that you can actually edit the values of them.  Which should be illegal, cause this one change can affect your entire product or system.
+Not to harp on the problem with global variables again, but `undefined` and `NaN` are both variables that are part of global scope.  This means that you can actually edit the values of them.  Which should be illegal, because this one change can affect your entire product or system.
 ## Conclusion As mentioned in the beginning, this is simply my opinion.  I am coming from a background in C/C++ and then started learning JavaScript.  These were the top 5 problems I had with JavaScript that made me really scratch my head.  You might have a completely different opinion reading this from your different technical background.  I hope you share your opinion!
-If you enjoyed this post share it on [twitter][twit]! Tweet at me with your about least favorite part of using JavaScript. If you love JavaScript and think its perfect, I would love to hear from you as well!  
+If you enjoyed this post share it on [twitter][twit]! Tweet at me with your least favorite part of using JavaScript. If you love JavaScript and think its perfect, I would love to hear from you as well!  
 ## Possible ResourcesCheck out my [GitHub][mainGit]View my personal [blog][pblog]Check out my YouTube [Channel][youtube][twit]: https://twitter.com/[mainGit]: https://github.com/acucciniello/
 [pblog]: http://www.acucciniello.com/
 [youtube]: https://www.youtube.com/channel/UC8icMMql5SjCaXXMvILGIUA
