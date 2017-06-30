@@ -1,21 +1,21 @@
 # How is Node.js Changing Web Development?## Introduction
 
-If you have remotely been paying attention to what is going on in the web development space, you know that Node.js has become extremely popular and many developer's choice of backend technology.  It all started in 2009 by Ryan Dahl.   It is a JavaScript runtime that is built on Google Chrome's V8 JavaScript Engine.Over the past couple of years, more and more engineers have moved towards Node.js in many of the their web applications.  As an affect how has Node.js changed web development?
+If you have remotely been paying attention to what is going on in the web development space, you know that Node.js has become extremely popular and many developer's choice of backend technology.  It all started in 2009 by Ryan Dahl.   It is a JavaScript runtime that is built on Google Chrome's V8 JavaScript Engine.Over the past couple of years, more and more engineers have moved towards Node.js in many of the their web applications.  With plenty of people using it now, how has Node.js changed web development?
 
 ## ScalabilityScalability is the one thing that makes Node.js so popular.  Node.js runs everything in a single thread.  This single thread is event driven (due to JavaScript being the language that it is written with).  It is also non-blocking.
 
 Now when you spin up a server in your Node web app, every time a new user connects to the server, that launches an event.  That event gets handled concurrently with the other events that are occurring or users that connecting to the server.
 
-In web applications built with other technologies, this would slow down the server after a large amount of users.  In contrast, with a Node application, and the non blocking event driven nature, this allows for highly scalable applications.
+In web applications built with other technologies, this would slow down the server after a large amount of users.  In contrast, with a Node application, and the non-blocking event driven nature, this allows for highly scalable applications.
 
-This now allows companies that are attempting to scale to build their apps with Node to prevent any slow downs they could have had.  This also means they would not have to purchase as much server space as someone using a web app that was not developed with Node.
+This now allows companies that are attempting to scale to build their apps with Node which will prevent any slow downs they could have had.  This also means they would not have to purchase as much server space as someone using a web app that was not developed with Node.
 ## Ease of Use
 
-As I previously mentioned, Node.js is written with JavaScript.  Now JavaScript was always used to add functionality to the frontend of applications.  But with the addition of Node.js, you can now write it the entire application in JavaScript.
+As I previously mentioned, Node.js is written with JavaScript.  Now JavaScript was always used to add functionality to the frontend of applications.  But with the addition of Node.js, you can now write the entire application in JavaScript.
 
 This now makes it so much easier to be a frontend developer who can edit some backend code, or be a backend engineer who can play around with some frontend code.  
 
-This now makes it so much easier to become a Full Stack Engineer.  You do not really need to know anything new except the basic concepts of how things work in the backend.  As a result, we have recently seen the rise in a full stack JavaScript developer.  This also reduces the mental context switch when switching from JavaScript on the frontend to whatever language that used to be used on the backend.
+This now makes it so much easier to become a Full Stack Engineer.  You do not really need to know anything new except the basic concepts of how things work in the backend.  As a result, we have recently seen the rise in a full stack JavaScript developer.  This also reduces the mental context switch when switching from JavaScript on the frontend to whatever language that used to be would have been used on the backend.
 
 ## Open Source Community
 
