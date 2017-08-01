@@ -1,13 +1,13 @@
 # Why is Python So Popular?## Introduction
 
-![PythonImage](https://github.com/acucciniello/BlogPostImages/blob/master/Oldest-Programming-Lang/python.jpeg)In 1991, the Python programming language was created.  It is a dynamically typed object oriented language that is often used for scripting and web applications today.  It usually used with some of its frameworks like Django or Flask on the backend.  
+![PythonImage](https://github.com/acucciniello/BlogPostImages/blob/master/Python-Popular/python.jpeg)In 1991, the Python programming language was created.  It is a dynamically typed object oriented language that is often used for scripting and web applications today.  It usually used with some of its frameworks like Django or Flask on the backend.  
 
-Since its creation it is still widely used and one of the most widely used languages in the world.  But why is this the case?  Today we will look at the reason why the Python Programming Language is still extremely popular in these recent years.
+Since its creation it is still extremely relevant and one of the most widely used programming languages in the world.  But why is this the case?  Today we will look at the reason why the Python Programming Language is still extremely popular in the past couple of years.
 
-## Used by Bigger CompaniesThe first reason why Python is so popular is because it is widely used by Bigger Technology companies.  If the bigger tech companies (think companies such as Google) use the language, then the engineers that work there also use it. If the developers use this at their job, they will take it to their next job and pass the knowledge.   
+## Used by Bigger CompaniesThe first reason why Python is so popular is because it is widely used by Bigger Technology companies.  If the bigger tech companies (think companies such as Google) use the language, then the engineers that work there also use it. If the developers use this at their job, they will take it to their next job and pass the knowledge on.   Also they will probably use this knowledge in any personal projects they have as well, futher spreading the usage.
 ## Plenty of Style is Not Used
 
-In Python, whitespace is important where as in other languages such as JavaScript and C++ it is not. The whitespace is used to dictate the scope of the statements in that indent.  By making whitespace important it reduces the need for things like brackets and semicolons in your code. 
+In Python, whitespace is important where as in other languages such as JavaScript and C++ it is not. The whitespace is used to dictate the scope of the statements in that indent.  By making whitespace important it reduces the need for things like braces and semicolons in your code. 
 
 That reduction alone can make your code look simpler and cleaner.  People are always more willing to try a language that looks and feels more clean as it seems easier to learn.## Tons of Libraries and 3rd Party Support
 
@@ -18,17 +18,17 @@ On top of that, it has plenty of third party support libraries that make takes e
 As mentioned in the Introduction, Python is an Object Oriented Programming Language.  Due to it being Object Oriented, more people are likely to adopt it.  Object Orient Programming allows developers to model their code very similar to real world behavior. 
 ## Built-in Testing
 
-Python allows you to import a package called `unittest`.  This package is a full unit testing suite with setup and teardown functions.  Having this built it makes something that is stable for developers to use to test their applications.
+Python allows you to import a package called `unittest`.  This package is a full unit testing suite with setup and teardown functions.  Having this built in, it is something that is stable for developers to use to test their applications.
 
 ## Readability and Learnability
 
-As we mentioned earlier, the whitespace is important therefore we do not need brackets and semicolons.  Also we mentioned Python is dynamically typed so it is easier to create and use variables not really having to worry about the type.
+As we mentioned earlier, the whitespace is important therefore we do not need brackets and semicolons.  Also we mentioned Python is dynamically typed so it is easier to create and use variables while not really having to worry about the type.
 
-All of these topics could be difficult for new programmers to learn.  Python makes it easier by removing some of the difficult parts and having nicer looking code.  The reduction to entry allows people to choose Python as their first programming language. (This was my first programming language.)
+All of these topics could be difficult for new programmers to learn.  Python makes it easier by removing some of the difficult parts and having nicer looking code.  The reduction of difficulty allows people to choose Python as their first programming language more often than others. (This was my first programming language.)
 
 ## Well Documented
 
-Building upon the standard libraries and the vast amount of 3rd party packages, the code in those applications are usually well documented.  They are tend to have plenty of helpful comments and tons of additional documentation to explain what is happening.  
+Building upon the standard libraries and the vast amount of 3rd party packages, the code in those applications are usually well documented.  They tend to have plenty of helpful comments and tons of additional documentation to explain what is happening.  
 
 From a developer stand point this is crucial.  Having great documentation can make or break a language's usage for me.   
 
