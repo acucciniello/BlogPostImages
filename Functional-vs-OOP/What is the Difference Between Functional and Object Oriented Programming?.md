@@ -21,9 +21,11 @@ For example, if you call function `getSum()`.  It calculates the sum of two inpu
 
 This allows the function of a program to be extremely predictable.  Each small function does its part and only its part.  It allows for very modular and clean code that all works together in harmony.  This is also easier when it comes to unit testing.
 
+Some examples of Functional Programming Languages would be Lisp, Clojure, and F#.
+
 ## Problems with Object Oriented Programming
 
-There are a few problems with Object Oriented Programing.  First, it is known to not being as reusable and modular.  Since some of your functions depend on the class that is using them it is hard to use some function with another class.
+There are a few problems with Object Oriented Programing.  First, it is known to be not as reusable.  Since some of your functions depend on the class that is using them it is hard to use some function with another class.
 
 It is also known to be typically less efficient and more complex to deal with.  Plenty of times, Object Oriented designs are made to model large architectures and can be extremely complicated.
 ## Problems with Functional Programming
