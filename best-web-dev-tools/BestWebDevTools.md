@@ -3,7 +3,7 @@
 
 ## Text Editors
 
-![atom](https://github.com/acucciniello/BlogPostImages/blob/master/best-tools-web-dev/atom.gif)First off, where do we write our code? That's right, in text editors.  You need to have a text editor that you trust and one that you love.  I have used a couple that I will recommend you check out.  
+![atom](https://github.com/acucciniello/BlogPostImages/blob/master/best-web-dev-tools/atom.gif)First off, where do we write our code? That's right, in text editors.  You need to have a text editor that you trust and one that you love.  I have used a couple that I will recommend you check out.  
 
 Currently I am using [Atom][atom].  It is a text editor that is minimal but can have plenty of features added to it.  You may install various plugins that make things easier, or connect it to things like GitHub for your source control needs with your project.
 
@@ -11,7 +11,7 @@ Another text editor I use is [Sublime Text][slime].  This is extremely similar t
 
 The main key here is to find something that you *love*.  Stick with it, and learn the ins and outs of it.  You want to become a pro with it.  This will greatly increase your productivity if you know your text editor in and out.## Source Control
 
-![Octocat](https://github.com/acucciniello/BlogPostImages/blob/master/best-tools-web-dev/octocat.gif)High on list of must have tools for web development or even just development in general, is a form of Source Control.  You need a place to backup your code and save in multiple states.  It also allows for better and easier collaboration between multiple people working in different branches.  
+![Octocat](https://github.com/acucciniello/BlogPostImages/blob/master/best-web-dev-tools/octocat.gif)High on list of must have tools for web development or even just development in general, is a form of Source Control.  You need a place to backup your code and save in multiple states.  It also allows for better and easier collaboration between multiple people working in different branches.  
 
 I recommend using git and [GitHub][gh].  The user interface is very friendly and the two integrate seamlessly.  I have also used Subversion and AWS Code Commit, but these did not leave as great as impression as GitHub did.  
 
@@ -22,7 +22,7 @@ Pro Tip for Windows Users: I personally do not like the Windows Command Prompt n
 
 Personally, if you are using Google Chrome, I suggest using [Chrome DevTools][cdevtools].  It allows you to set breakpoints, edit code, manipulate page elements as well as checking all css properties of the different html elements on the page.  It is extremely powerful and can help you when debugging to see what is happening in real time on the webpage.  ## HTTP Client
 
-![postman](https://github.com/acucciniello/BlogPostImages/blob/master/best-tools-web-dev/postman.png)Lastly, I believe you would need something like [Postman][pman] to test HTTP requests from web services.  It makes it extremely easy to test and create APIs.  You can make all different types of requests, pass in whatever headers you want and see what the response is like!  This is important for any developer that needs to make API requests.## Conclusion There you have it, the best tools for web development, in my opinion. I hope this list has helped you get started in improving your web development workflow.  Always be on the lookout for improving your toolset as time goes on.  I believe you can always improve, why not let these tools make it easier for you!
+![postman](https://github.com/acucciniello/BlogPostImages/blob/master/best-web-dev-tools/postman.png)Lastly, I believe you would need something like [Postman][pman] to test HTTP requests from web services.  It makes it extremely easy to test and create APIs.  You can make all different types of requests, pass in whatever headers you want and see what the response is like!  This is important for any developer that needs to make API requests.## Conclusion There you have it, the best tools for web development, in my opinion. I hope this list has helped you get started in improving your web development workflow.  Always be on the lookout for improving your toolset as time goes on.  I believe you can always improve, why not let these tools make it easier for you!
 If you enjoyed this post share it on [twitter][twit]! Leave a comment down low and let me know tools you like or dislike off the list.  Also let me know if there are any tools that I am missing to help others!
 ## Possible ResourcesCheck out my [GitHub][mainGit]View my personal [blog][pblog]Check out my YouTube [Channel][youtube][twit]: https://twitter.com/[mainGit]: https://github.com/acucciniello/
 [pblog]: http://www.acucciniello.com/
