@@ -48,9 +48,7 @@ With attempting something new, there is always a risk involved.  It can turn out
 
 ![support](https://github.com/acucciniello/BlogPostImages/blob/master/new-web-dev/techsupport.png)
 
-Lastly, something that is not popular or widely used will tend to lose support.  You may have been an early adopter, when you thought that this technology would be great. Just because the technology was supported today, it does not mean it will be supported in the future, when you plan on using it. Support can sometimes make or break the usage of an application and it can sometimes be safer to go with a more stable framework.
-
-![atom](https://github.com/acucciniello/BlogPostImages/blob/master/best-web-dev-tools/atom.gif)## Conclusion In my opinion, changing web development is a good thing, and you just need to keep up.  I attempted to give you both sides of the coin in order for you to make a decision on your own. 
+Lastly, something that is not popular or widely used will tend to lose support.  You may have been an early adopter, when you thought that this technology would be great. Just because the technology was supported today, it does not mean it will be supported in the future, when you plan on using it. Support can sometimes make or break the usage of an application and it can sometimes be safer to go with a more stable framework.## Conclusion In my opinion, changing web development is a good thing, and you just need to keep up.  I attempted to give you both sides of the coin in order for you to make a decision on your own. 
 If you enjoyed this post share it on [twitter][twit]! Leave a comment down low and let me know tools you like or dislike off the list.  Also let me know if there are any tools that I am missing to help others!
 ## Possible ResourcesCheck out my [GitHub][mainGit]View my personal [blog][pblog]Check out my YouTube [Channel][youtube][twit]: https://twitter.com/[mainGit]: https://github.com/acucciniello/
 [pblog]: http://www.acucciniello.com/
